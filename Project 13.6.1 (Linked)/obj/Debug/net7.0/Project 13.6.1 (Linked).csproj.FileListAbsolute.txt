@@ -1,0 +1,15 @@
+C:\Users\sevac\source\repos\Project 13.6.1 (Linked)\Project 13.6.1 (Linked)\bin\Debug\net7.0\Project 13.6.1 (Linked).exe
+C:\Users\sevac\source\repos\Project 13.6.1 (Linked)\Project 13.6.1 (Linked)\bin\Debug\net7.0\Project 13.6.1 (Linked).deps.json
+C:\Users\sevac\source\repos\Project 13.6.1 (Linked)\Project 13.6.1 (Linked)\bin\Debug\net7.0\Project 13.6.1 (Linked).runtimeconfig.json
+C:\Users\sevac\source\repos\Project 13.6.1 (Linked)\Project 13.6.1 (Linked)\bin\Debug\net7.0\Project 13.6.1 (Linked).dll
+C:\Users\sevac\source\repos\Project 13.6.1 (Linked)\Project 13.6.1 (Linked)\bin\Debug\net7.0\Project 13.6.1 (Linked).pdb
+C:\Users\sevac\source\repos\Project 13.6.1 (Linked)\Project 13.6.1 (Linked)\obj\Debug\net7.0\Project 13.6.1 (Linked).csproj.AssemblyReference.cache
+C:\Users\sevac\source\repos\Project 13.6.1 (Linked)\Project 13.6.1 (Linked)\obj\Debug\net7.0\Project 13.6.1 (Linked).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevac\source\repos\Project 13.6.1 (Linked)\Project 13.6.1 (Linked)\obj\Debug\net7.0\Project 13.6.1 (Linked).AssemblyInfoInputs.cache
+C:\Users\sevac\source\repos\Project 13.6.1 (Linked)\Project 13.6.1 (Linked)\obj\Debug\net7.0\Project 13.6.1 (Linked).AssemblyInfo.cs
+C:\Users\sevac\source\repos\Project 13.6.1 (Linked)\Project 13.6.1 (Linked)\obj\Debug\net7.0\Project 13.6.1 (Linked).csproj.CoreCompileInputs.cache
+C:\Users\sevac\source\repos\Project 13.6.1 (Linked)\Project 13.6.1 (Linked)\obj\Debug\net7.0\Project 13.6.1 (Linked).dll
+C:\Users\sevac\source\repos\Project 13.6.1 (Linked)\Project 13.6.1 (Linked)\obj\Debug\net7.0\refint\Project 13.6.1 (Linked).dll
+C:\Users\sevac\source\repos\Project 13.6.1 (Linked)\Project 13.6.1 (Linked)\obj\Debug\net7.0\Project 13.6.1 (Linked).pdb
+C:\Users\sevac\source\repos\Project 13.6.1 (Linked)\Project 13.6.1 (Linked)\obj\Debug\net7.0\Project 13.6.1 (Linked).genruntimeconfig.cache
+C:\Users\sevac\source\repos\Project 13.6.1 (Linked)\Project 13.6.1 (Linked)\obj\Debug\net7.0\ref\Project 13.6.1 (Linked).dll
